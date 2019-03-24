@@ -10,7 +10,7 @@ This repo consists of code based in tensorflow.
 - [GBDT+LR:Practical Lessons from Predicting Clicks on Ads at Facebook](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/GBDT%2BLR)
 - [GCN:Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/GCN)
 ### Relevant Notes
-- [DCN:Deep & Cross Network for Ad Click Predictions简介](https://blog.csdn.net/qq_35564813/article/details/88384484)
+- [DCN:Deep & Cross Network for Ad Click Predictions简介](https://blog.csdn.net/qq_35564813/article/details/88600139)
 - [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction简介](https://blog.csdn.net/qq_35564813/article/details/86022277)
 - [FFM:Field-aware Factorization Machines for CTR Prediction简介](https://blog.csdn.net/qq_35564813/article/details/85464337)
 - [FM:Factorization Machines简介](https://blog.csdn.net/qq_35564813/article/details/85221755)
@@ -18,3 +18,5 @@ This repo consists of code based in tensorflow.
 - [GCN:Graph Convolutional Neural Networks for Web-Scale Recommender Systems简介](https://blog.csdn.net/qq_35564813/article/details/88384484)
 ### Tips
 More information you can see [my blog](https://blog.csdn.net/qq_35564813?t=1)
+If you just wanna see my notes about paper,see [this](https://blog.csdn.net/qq_35564813/article/category/8555075)
+Give a star to keep up with my upgrading.
