@@ -17,6 +17,6 @@ This repo consists of code based in tensorflow.
 - [GBDT+LR:Practical Lessons from Predicting Clicks on Ads at Facebook简介](https://blog.csdn.net/qq_35564813/article/details/88768624)
 - [GCN:Graph Convolutional Neural Networks for Web-Scale Recommender Systems简介](https://blog.csdn.net/qq_35564813/article/details/88384484)
 ### Tips
-More information you can see [my blog](https://blog.csdn.net/qq_35564813?t=1). 
-If you just wanna see my notes about paper,see [this](https://blog.csdn.net/qq_35564813/article/category/8555075). 
+More information you can see [my blog](https://blog.csdn.net/qq_35564813?t=1).  
+If you just wanna see my notes about paper,see [this](https://blog.csdn.net/qq_35564813/article/category/8555075).  
 Give a star to keep up with my upgrading.
