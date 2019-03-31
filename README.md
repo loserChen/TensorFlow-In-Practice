@@ -17,7 +17,7 @@ This repo consists of code based in tensorflow.
 - [FM:Factorization Machines简介](https://blog.csdn.net/qq_35564813/article/details/85221755)
 - [GBDT+LR:Practical Lessons from Predicting Clicks on Ads at Facebook简介](https://blog.csdn.net/qq_35564813/article/details/88768624)
 - [GCN:Semi-Supervised Classification with Graph Convolutional Networks简介](https://blog.csdn.net/qq_35564813/article/details/88377400)
-- [GNN:Session-based Recommendation with Graph Neural Networks简介(https://blog.csdn.net/qq_35564813/article/details/88616124#comments)
+- [GNN:Session-based Recommendation with Graph Neural Networks简介](https://blog.csdn.net/qq_35564813/article/details/88616124#comments)
 ### Tips
 More information you can see [my blog](https://blog.csdn.net/qq_35564813?t=1).  
 If you just wanna see my notes about paper,see [this](https://blog.csdn.net/qq_35564813/article/category/8555075).  
