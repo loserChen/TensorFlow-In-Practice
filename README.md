@@ -16,6 +16,7 @@ This repo consists of code based in tensorflow.
 - [GCN:Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/GCN)
 - [GNN:Session-based Recommendation with Graph Neural Networks](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/SRGNN)
 - [DIEN:Deep Interest Evolution Network for Click-Through Rate Prediction](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/DIEN)
+- [SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/SessionBasedRNN)
 ### Relevant Notes
 - [DCN:Deep & Cross Network for Ad Click Predictions简介](https://blog.csdn.net/qq_35564813/article/details/88600139)
 - [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction简介](https://blog.csdn.net/qq_35564813/article/details/86022277)
