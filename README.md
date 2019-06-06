@@ -2,6 +2,11 @@
 This repo consists of code based in tensorflow.
 ### Basic operation
 - [Learning to use tensorboard](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/UsingTensorBoard)
+- [Convolution Neural Network](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/CNN)
+- [Long Short Term Memory using MNIST](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/LSTM)
+- [Implement of LSTM by hand](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/LSTM_NAVIE)
+- [Variant Auto Encoder-version1](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/VAE)
+- [Variant Auto Encoder-version2](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/VAE2)
 ### The Code of Paper  
 - [DCN:Deep & Cross Network for Ad Click Predictions](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/DCN)
 - [DeepFM:A Factorization-Machine based Neural Network for CTR Prediction](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/DeepFM)
@@ -10,6 +15,7 @@ This repo consists of code based in tensorflow.
 - [GBDT+LR:Practical Lessons from Predicting Clicks on Ads at Facebook](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/GBDT%2BLR)
 - [GCN:Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/GCN)
 - [GNN:Session-based Recommendation with Graph Neural Networks](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/SRGNN)
+- [DIEN:Deep Interest Evolution Network for Click-Through Rate Prediction](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/DIEN)
 ### Relevant Notes
 - [DCN:Deep & Cross Network for Ad Click Predictions简介](https://blog.csdn.net/qq_35564813/article/details/88600139)
 - [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction简介](https://blog.csdn.net/qq_35564813/article/details/86022277)
@@ -17,7 +23,8 @@ This repo consists of code based in tensorflow.
 - [FM:Factorization Machines简介](https://blog.csdn.net/qq_35564813/article/details/85221755)
 - [GBDT+LR:Practical Lessons from Predicting Clicks on Ads at Facebook简介](https://blog.csdn.net/qq_35564813/article/details/88768624)
 - [GCN:Semi-Supervised Classification with Graph Convolutional Networks简介](https://blog.csdn.net/qq_35564813/article/details/88377400)
-- [GNN:Session-based Recommendation with Graph Neural Networks简介](https://blog.csdn.net/qq_35564813/article/details/88616124#comments)
+- [GNN:Session-based Recommendation with Graph Neural Networks简介](https://blog.csdn.net/qq_35564813/article/details/88616124)
+- [DIEN:Deep Interest Evolution Network for Click-Through Rate Prediction简介](https://blog.csdn.net/qq_35564813/article/details/90723139)
 ### Tips
 More information you can see [my blog](https://blog.csdn.net/qq_35564813?t=1).  
 If you just wanna see my notes about paper,see [this](https://blog.csdn.net/qq_35564813/article/category/8555075).  
