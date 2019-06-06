@@ -2,11 +2,11 @@
 This repo consists of code based in tensorflow.
 ### Basic operation
 - [Learning to use tensorboard](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/UsingTensorBoard)
-- [Convolution Neural Network](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/CNN)
+- [Convolution Neural Network using MNIST](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/CNN)
 - [Long Short Term Memory using MNIST](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/LSTM)
 - [Implement of LSTM by hand](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/LSTM_NAVIE)
-- [Variant Auto Encoder-version1](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/VAE)
-- [Variant Auto Encoder-version2](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/VAE2)
+- [Variational Auto Encoder-version1](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/VAE)
+- [Variational Auto Encoder-version2](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/VAE2)
 ### The Code of Paper  
 - [DCN:Deep & Cross Network for Ad Click Predictions](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/DCN)
 - [DeepFM:A Factorization-Machine based Neural Network for CTR Prediction](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/DeepFM)
@@ -27,5 +27,5 @@ This repo consists of code based in tensorflow.
 - [DIEN:Deep Interest Evolution Network for Click-Through Rate Prediction简介](https://blog.csdn.net/qq_35564813/article/details/90723139)
 ### Tips
 More information you can see [my blog](https://blog.csdn.net/qq_35564813?t=1).  
-If you just wanna see my notes about paper,see [this](https://blog.csdn.net/qq_35564813/article/category/8555075).  
+If you just wanna see my notes more about paper,see [this](https://blog.csdn.net/qq_35564813/article/category/8555075).  
 Give a star to keep up with my upgrading.
