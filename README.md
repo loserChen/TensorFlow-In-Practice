@@ -18,7 +18,7 @@ This repo consists of code based in tensorflow.
 - [DIEN:Deep Interest Evolution Network for Click-Through Rate Prediction](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/DIEN)
 - [Session-based Recommendations with Recurrent Neural Networks](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/SessionBasedRNN)
 - [Transformer](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/Transformer)
-- 
+- [(WWW2019) What We Vote for? Answer Selection from User Expertise View in Community Question Answering](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/UEAN)
 ### Relevant Notes
 - [DCN:Deep & Cross Network for Ad Click Predictions简介](https://blog.csdn.net/qq_35564813/article/details/88600139)
 - [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction简介](https://blog.csdn.net/qq_35564813/article/details/86022277)
