@@ -1,0 +1,85 @@
+IWSLT 2016 evaluation campaign: training/development data
+
+# Copyright: TED Conference LLC
+# License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0
+
+For each language pair x-y, the in-domain parallel training data is
+provided through the following files:
+
+train.tags.x-y.x
+train.tags.x-y.y
+
+They include transcripts and manual translations of the talks
+available at the TED website for each pair x-y on April 1st, 2016. The
+talks included in the development (and forthcoming evaluation) sets
+have been removed.
+
+The transcripts are given as pure text (UTF8 encoding), one or more
+sentences per line, and are aligned (at language pair level, not
+across pairs).
+
+Monolingual training data is included in the file:
+
+train.y
+
+while for tuning/development purposes, the following files are
+released:
+
+IWSLT16.TED.dev2010.x-y.x.xml
+IWSLT16.TED.dev2010.x-y.y.xml
+IWSLT16.TED.tst201[01234].x-y.x.xml
+IWSLT16.TED.tst201[01234].x-y.y.xml
+
+with the exception of the German-English pair for which some dev set
+built on TEDX talks are additionally released.
+
+Below further information about released files is provided.
+
+--------------------------------------------------------------------
+The files:
+
+train.tags.x-y.x
+train.tags.x-y.y
+
+include the talks allowed to be used for training, and some metadata;
+in particular, for each talk meta information is provided in between
+the following tags:
+
+<url> ... </url>
+<keywords> ... </keywords>
+<speaker> ... </speaker>
+<talkid> ... </talkid>
+<title> ... </title>
+<description> ... </description>
+<reviewer> ... </reviewer>
+<translator> ... </translator>
+
+The transcripts/translations are in lines not starting with the "<"
+character.
+
+--------------------------------------------------------------------
+The file:
+
+train.y
+
+includes monolingual plain texts, without any meta information.
+
+--------------------------------------------------------------------
+
+The IWSLT16.TED*.xml files contain transcripts and manual translations
+of the talks that can be used for tuning/development purposes in IWSLT
+2016 evaluation campaign.
+
+The released files are in xml format. Each talk defines a single
+document, for which the following tags are generally provided:
+
+<url>: the url of the page with the text
+<description>: a brief description of the talk
+<keywords>: keywords of the talk
+<talkid>: a numeric identfier of the talk
+<title>: the title of the talk
+
+UTF8 encoded text is segmented in sentences. Segments, given in
+between tags <seg id="N"> and </seg> (N=1,2,...), can include more
+than a single sentence. Segments of files *.x-y.x.xml and *.x-y.y.xml
+are aligned.
