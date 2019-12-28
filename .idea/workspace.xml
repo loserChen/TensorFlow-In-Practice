@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0f12e70-d6b1-4729-9a60-780eb426b8b5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TED.dev2010.de-en.de.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TED.dev2010.de-en.en.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TED.tst2010.de-en.de.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TED.tst2010.de-en.en.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TED.tst2011.de-en.de.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TED.tst2011.de-en.en.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TED.tst2012.de-en.de.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TED.tst2012.de-en.en.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TED.tst2013.de-en.de.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TED.tst2013.de-en.en.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TED.tst2014.de-en.de.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TED.tst2014.de-en.en.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TEDX.dev2012.de-en.de.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TEDX.dev2012.de-en.en.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TEDX.tst2013.de-en.de.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TEDX.tst2013.de-en.en.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TEDX.tst2014.de-en.de.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/IWSLT16.TEDX.tst2014.de-en.en.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/README" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/de.vocab.tsv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/en.vocab.tsv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/train.en" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/train.tags.de-en.de" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data/train.tags.de-en.en" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/data_load.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/eval.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/hyperparams.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/modules.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Transformer/train.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/UEAN/code.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />

@@ -7,7 +7,7 @@ This repo consists of code based in tensorflow.
 - [Implement of LSTM by hand](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/LSTM_NAVIE)
 - [Variational Auto Encoder-version1](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/VAE)
 - [Variational Auto Encoder-version2](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/VAE2)
-### The Code of Paper  
+### The Code  
 - [DCN:Deep & Cross Network for Ad Click Predictions](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/DCN)
 - [DeepFM:A Factorization-Machine based Neural Network for CTR Prediction](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/DeepFM)
 - [FFM:Field-aware Factorization Machines for CTR Prediction](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/FFM)
@@ -16,7 +16,9 @@ This repo consists of code based in tensorflow.
 - [GCN:Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/GCN)
 - [GNN:Session-based Recommendation with Graph Neural Networks](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/SRGNN)
 - [DIEN:Deep Interest Evolution Network for Click-Through Rate Prediction](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/DIEN)
-- [SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/SessionBasedRNN)
+- [Session-based Recommendations with Recurrent Neural Networks](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/SessionBasedRNN)
+- [Transformer](https://github.com/loserChen/TensorFlow-In-Practice/tree/master/Transformer)
+- 
 ### Relevant Notes
 - [DCN:Deep & Cross Network for Ad Click Predictions简介](https://blog.csdn.net/qq_35564813/article/details/88600139)
 - [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction简介](https://blog.csdn.net/qq_35564813/article/details/86022277)
